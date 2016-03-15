@@ -118,12 +118,14 @@ a.link:hover {
   color: white;
   cursor: pointer;
   display: inline-block;
+  border-width: 0;
   font-size: 13px;
   font-weight: 400;
   margin-top: 20px;
-  padding: 7px 28px;
+  padding: 9px 28px;
   text-decoration: none;
   transition: all .3s ease-in-out;
+  outline: none;
 }
 
 .button:active {
