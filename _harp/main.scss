@@ -118,6 +118,7 @@ a.link:hover {
   color: white;
   cursor: pointer;
   display: inline-block;
+<<<<<<< HEAD
   border-width: 0;
   font-size: 13px;
   font-weight: 400;
@@ -126,6 +127,14 @@ a.link:hover {
   text-decoration: none;
   transition: all .3s ease-in-out;
   outline: none;
+=======
+  font-size: 13px;
+  font-weight: 400;
+  margin-top: 20px;
+  padding: 7px 28px;
+  text-decoration: none;
+  transition: all .3s ease-in-out;
+>>>>>>> gh-pages
 }
 
 .button:active {
